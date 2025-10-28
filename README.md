@@ -1,1 +1,1 @@
-# fungal_investigator.md
+# fungal_investigator

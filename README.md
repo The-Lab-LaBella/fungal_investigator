@@ -79,11 +79,11 @@ This sequence will help you identify what species of fungus is causing the illne
 ## Examine your sequence
 
 The DNA sequences for the barcode region are here:
-- alex_c
-- casey_m
-- pepper_a
-- blake_c
-- nellie_c
+- alex_c https://github.com/The-Lab-LaBella/fungal_investigator/blob/main/alex_c.fasta 
+- casey_m https://github.com/The-Lab-LaBella/fungal_investigator/blob/main/casey_m.fasta
+- pepper_a https://github.com/The-Lab-LaBella/fungal_investigator/blob/main/pepper_a.fasta
+- blake_c https://github.com/The-Lab-LaBella/fungal_investigator/blob/main/blake_c.fasta 
+- nellie_c https://github.com/The-Lab-LaBella/fungal_investigator/blob/main/nellie_c.fasta
 
 &nbsp;
 &nbsp;
@@ -165,11 +165,11 @@ Does your patient's fungal pathogen have the resistance mutation? You hypothesiz
 
 To check this, we will compare the ERG11 gene from your patient's fungal infection with a reference. 
 
-- Alex ERG11
-- Casey ERG11
-- Pepper ERG11
-- Blake ERG11
-- Nellie ERG11
+- Alex ERG11 https://github.com/The-Lab-LaBella/fungal_investigator/blob/main/alex_c_ERG11.fasta
+- Casey ERG11 https://github.com/The-Lab-LaBella/fungal_investigator/blob/main/casey_m_ERG11.fasta
+- Pepper ERG11 https://github.com/The-Lab-LaBella/fungal_investigator/blob/main/pepper_a_ERG11.fasta
+- Blake ERG11 https://github.com/The-Lab-LaBella/fungal_investigator/blob/main/blake_c_ERG11.fasta
+- Nellie ERG11 https://github.com/The-Lab-LaBella/fungal_investigator/blob/main/nellie_c_ERG11.fasta
 
 &nbsp;
 

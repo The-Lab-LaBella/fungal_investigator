@@ -56,6 +56,9 @@ Similarly, species share similar DNA because they are descended from a common an
 &nbsp;
 &nbsp;
 
+
+## DNA Barcoding 
+
 Fungal species differ from each other in ways we can use to identify them. 
 
 This is called a **DNA Barcode** - this is a region of DNA that can be matched to a reference database for species identification. 
@@ -82,6 +85,9 @@ The DNA sequences for the barcode region are here:
 - blake_c
 - nellie_c
 
+&nbsp;
+&nbsp;
+
 ## Copy the sequence into the NCBI BLAST search 
 
 Open this link - https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastn&PAGE_TYPE=BlastSearch&LINK_LOC=blasthome 
@@ -89,5 +95,16 @@ Open this link - https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastn&PAGE_TY
 Paste your DNA Sequence into the box labeled **Enter Query Sequence** and hit the **BLAST** button 
 
 <img width="1648" height="1068" alt="image" src="https://github.com/user-attachments/assets/91a208a6-a571-49bc-b0f1-a3c4ade6bb19" />
+
+&nbsp;
+&nbsp;
+
+
+## Examine the results and report the species infecting your patient
+
+What fungus is causing your patient to get sick?
+
+&nbsp;
+&nbsp;
 
 

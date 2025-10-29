@@ -40,7 +40,7 @@ Identifying fungi in patients can be done by looking at the cells. It is importa
 
 DNA, or deoxyribonucleic acid, is the molecule that carries the genetic instructions for the development, functioning, growth, and reproduction of all known organisms. 
 
-<img width="1200" height="849" alt="image" src="https://github.com/user-attachments/assets/6baa950e-ac53-49ca-a67f-d117063dc829" />
+<img width="750" alt="image" src="https://github.com/user-attachments/assets/6baa950e-ac53-49ca-a67f-d117063dc829" />
 
 &nbsp;
 &nbsp;
@@ -51,7 +51,7 @@ You and your siblings and/or cousins have similar DNA because you share ancestor
 
 Similarly, species share similar DNA because they are descended from a common ancestor. 
 
-<img width="1079" height="540" alt="image" src="https://github.com/user-attachments/assets/c65b0807-a1b6-4e6c-8522-862ff11cd540" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/c65b0807-a1b6-4e6c-8522-862ff11cd540" />
 
 &nbsp;
 &nbsp;
@@ -65,7 +65,7 @@ This is called a **DNA Barcode** - this is a region of DNA that can be matched t
 
 If we visualize DNA such that each base in the sequence is a different color - we can see the differences between the barcodes. 
 
-<img width="776" height="547" alt="image" src="https://github.com/user-attachments/assets/205758d2-eeb7-40cc-af68-fd632d75eaf2" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/205758d2-eeb7-40cc-af68-fd632d75eaf2" />
 
 &nbsp;
 &nbsp;
@@ -94,7 +94,7 @@ Open this link - https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastn&PAGE_TY
 
 Paste your DNA Sequence into the box labeled **Enter Query Sequence** and hit the **BLAST** button 
 
-<img width="1648" height="1068" alt="image" src="https://github.com/user-attachments/assets/91a208a6-a571-49bc-b0f1-a3c4ade6bb19" />
+<img width="1500" alt="image" src="https://github.com/user-attachments/assets/91a208a6-a571-49bc-b0f1-a3c4ade6bb19" />
 
 &nbsp;
 &nbsp;
@@ -106,5 +106,69 @@ What fungus is causing your patient to get sick?
 
 &nbsp;
 &nbsp;
+
+# Antifungal Resistance 
+
+To treat our patient, we need to identify which antifungal compound can be used to kill the fungus. 
+
+However, some fungi are resistant to antifungals 
+
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/f251b8cb-bcac-4528-88cd-90e79f174a71" />
+
+One of the most common antifungals is Fluconazole - which is an azole that inhibits the enzyme **ERG11** also known as **CYP51**
+
+Without active ERG11, the cell's membrane is weakened and toxic compounds start to accumulate. 
+
+<img width="500" height="565" alt="image" src="https://github.com/user-attachments/assets/5939477f-9aad-4826-8381-6f8e0d014069" />
+
+Some fungi have mutations in their CYP51 gene that allow them to survive in the presence of Fluconazole. 
+
+This is called antifungal resistance, and it means we need to seek a different treatment plan for this patient. 
+
+&nbsp;
+&nbsp;
+
+
+## View the structure of your species' ERG11 (or CYP51) gene
+
+The ERG11 protein binds to iron, and this is essential to its function. This binding occurs at a "binding site." Mutations at this binding site can lead the fungus to be resistant to treatment with fluconazole. 
+
+We need to figure out what position in the amino acid sequence of the protein does the iron binding occur. 
+
+To do that, we need to examine the structure of the protein. Alphafold, a computer program that predicts protein structure, has been used to generate information about the binding site for our fungal pathogens. 
+
+Select your fungal pathogen and go to the **Features** section to identify the "Position" of the binding site. 
+
+- Aspergillus fumigatus https://www.uniprot.org/uniprotkb/A0A890DMZ9/entry 
+- Candida albicans https://www.uniprot.org/uniprotkb/P10613/entry 
+- Coccidiodes posadasii https://www.uniprot.org/uniprotkb/Q68HC6/entry 
+- Cryptococcus neoformans https://www.uniprot.org/uniprotkb/A0A0G3F905/entry 
+- Rhizopus oryzae https://www.uniprot.org/uniprotkb/A0A367JF20/entry 
+
+**What position is the binding site? What amino acid (letter) is at that site?**
+
+&nbsp;
+&nbsp;
+
+## Treatment plan
+
+Does your patient's fungal pathogen have the resistance mutation? You hypothesize that if a species has a Serine (S) instead of a Cysteine (C) at the binding site, this can lead to resistance to fluconazole. 
+
+To check this, we will compare the ERG11 gene from your patient's fungal infection with a reference. 
+
+- Alex ERG11
+- Casey ERG11
+- Pepper ERG11
+- Blake ERG11
+- Nellie ERG11
+
+Copy the protein sequences below into the **Upload Data** website by selecting **Text**
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/345f5e54-9c76-44f7-9f55-4edf96733ba9" />
+
+Scroll to the position of the binding site. Does your sequence have a C (susceptible to the fluconazole) or an S (resistant to fluconazole?
+
+**Would you treat your patient with fluconazole?**
+
+# Thanks!
 
 

@@ -174,6 +174,7 @@ To check this, we will compare the ERG11 gene from your patient's fungal infecti
 &nbsp;
 
 Copy the protein sequences below into the **Upload Data** website by selecting **Text**
+
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/345f5e54-9c76-44f7-9f55-4edf96733ba9" />
 
 Scroll to the position of the binding site. Does your sequence have a C (susceptible to the fluconazole) or an S (resistant to fluconazole?

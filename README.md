@@ -113,13 +113,22 @@ To treat our patient, we need to identify which antifungal compound can be used 
 
 However, some fungi are resistant to antifungals 
 
+&nbsp;
+
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/f251b8cb-bcac-4528-88cd-90e79f174a71" />
+
+&nbsp;
+
 
 One of the most common antifungals is Fluconazole - which is an azole that inhibits the enzyme **ERG11** also known as **CYP51**
 
 Without active ERG11, the cell's membrane is weakened and toxic compounds start to accumulate. 
 
+&nbsp;
+
 <img width="500" height="565" alt="image" src="https://github.com/user-attachments/assets/5939477f-9aad-4826-8381-6f8e0d014069" />
+
+&nbsp;
 
 Some fungi have mutations in their CYP51 gene that allow them to survive in the presence of Fluconazole. 
 
@@ -162,10 +171,15 @@ To check this, we will compare the ERG11 gene from your patient's fungal infecti
 - Blake ERG11
 - Nellie ERG11
 
+&nbsp;
+
 Copy the protein sequences below into the **Upload Data** website by selecting **Text**
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/345f5e54-9c76-44f7-9f55-4edf96733ba9" />
 
 Scroll to the position of the binding site. Does your sequence have a C (susceptible to the fluconazole) or an S (resistant to fluconazole?
+
+&nbsp;
+
 
 **Would you treat your patient with fluconazole?**
 

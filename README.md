@@ -8,7 +8,9 @@ As you know, fungal infections are serious and impact many people and animals ar
 
 Many types of fungi, like the mushrooms you get on pizza, are harmless. However, some fungi are microscopic and can infect people! 
 
-With your help, we can **diagnose the infections** at our clinic. 
+With your help, we can **diagnose the infections** at our clinic.  
+
+As you go along - fill out your diagnostic report here: https://forms.gle/XDPBf3HAhVwphATx5
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/c6cc27e1-b211-4114-b41e-529707ec1603" />
 
@@ -22,7 +24,7 @@ Below are the patients that our clinic has seen with fungal infections.
 
 We have cultured the fungi from the patients and sequenced a specific region of their DNA called the ITS. 
 
-Please report all of your findings here: _INCLUDE LINK_
+Please report all of your findings here: https://forms.gle/XDPBf3HAhVwphATx5
 
 <img width="1000" alt="patient_history" src="https://github.com/user-attachments/assets/462d2e73-51ae-4ef2-9665-eb23412dc360" />
 
@@ -102,7 +104,7 @@ Paste your DNA Sequence into the box labeled **Enter Query Sequence** and hit th
 
 ## Examine the results and report the species infecting your patient
 
-What fungus is causing your patient to get sick?
+### REPORT QUESTION: What fungus is causing your patient to get sick?
 
 &nbsp;
 &nbsp;
@@ -154,7 +156,7 @@ Select your fungal pathogen and go to the **Features** section to identify the "
 - Cryptococcus neoformans https://www.uniprot.org/uniprotkb/A0A0G3F905/entry 
 - Rhizopus oryzae https://www.uniprot.org/uniprotkb/A0A367JF20/entry 
 
-**What position is the binding site? What amino acid (letter) is at that site?**
+### REPORT QUESTION: What position is the binding site? What amino acid (letter) is at that site?
 
 &nbsp;
 &nbsp;
@@ -184,7 +186,7 @@ Scroll to the position of the binding site. Does your sequence have a C (suscept
 &nbsp;
 
 
-**Would you treat your patient with fluconazole?**
+### REPORT QUESTION:  Would you treat your patient with fluconazole?
 
 # Thanks!
 
